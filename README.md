@@ -3,6 +3,8 @@
 **Online Retail Purchase Patterns Dashboard**  
 *Developed by: [Prince Uwagboe]*
 
+![Dashboard Overview](assets/dashboard%20overview.png)
+
 ---
 
 ## 1️⃣ Introduction
@@ -189,6 +191,9 @@ The Online Retail Purchase Patterns Dashboard showcases a powerful, easy-to-use 
 ## 📁 Visual Gallery
 
 All chart images used are located in the `assets/` folder:
+
+### Dashboard Overview
+![Dashboard Overview](assets/dashboard%20overview.png)
 
 ### Average Order Value
 ![Average Order Value](assets/average%20order%20value.png)
