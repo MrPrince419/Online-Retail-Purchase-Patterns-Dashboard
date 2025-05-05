@@ -1,4 +1,4 @@
-## 📊 Online Retail Purchase Patterns Dashboard Documentation
+## 📊 Online Retail Purchase Patterns Dashboard
 
 **Online Retail Purchase Patterns Dashboard**  
 *Developed by: [Prince Uwagboe]*
