@@ -1,7 +1,7 @@
 ## 📊 Online Retail Purchase Patterns Dashboard Documentation
 
 **Online Retail Purchase Patterns Dashboard**  
-*Developed by: [Prince Uwagboe]*
+*Developed by: [Prince Uwagboe](https://github.com/MrPrince419)*
 
 ![Dashboard Overview](assets/dashboard%20overview.png)
 
