@@ -93,33 +93,33 @@ Retail businesses often lack accessible, real-time insights into sales drivers a
 **Layout Principles**
 - **KPI Summary Row**  
   - TotalPrice, Customer ID Count, Invoice Count  
-    ![Total Price](assets/sum of totalprice.png)  
-    ![Customer Count](assets/count of customer id.png)  
-    ![Invoice Count](assets/count of invoice.png)
+    ![Total Price](assets/sum%20of%20totalprice.png)  
+    ![Customer Count](assets/count%20of%20customer%20id.png)  
+    ![Invoice Count](assets/count%20of%20invoice.png)
 
 - **Top Sales by Description**  
   - Bar chart with conditional formatting  
-    ![Top Products](assets/sum of totalprice by description.png)
+    ![Top Products](assets/sum%20of%20totalprice%20by%20description.png)
 
 - **Geographic Sales**  
   - Filled map visualization  
-    ![Country Map](assets/sum of totalprice by country.png)
+    ![Country Map](assets/sum%20of%20totalprice%20by%20country.png)
 
 - **Order Value & Quantity Cards**  
-    ![Average Order Value](assets/average order value.png)  
-    ![Avg Quantity per Order](assets/avg quantity per order.png)
+    ![Average Order Value](assets/average%20order%20value.png)  
+    ![Avg Quantity per Order](assets/avg%20quantity%20per%20order.png)
 
 - **Sales by Month**  
   - Area chart  
-    ![Monthly Sales](assets/sum of totalprice by month.png)
+    ![Monthly Sales](assets/sum%20of%20totalprice%20by%20month.png)
 
 - **Sales by Customer**  
   - Line chart  
-    ![Customer Sales](assets/sum of totalprice by customer id.png)
+    ![Customer Sales](assets/sum%20of%20totalprice%20by%20customer%20id.png)
 
 - **Slicer Panel**  
   - Year and Month  
-    ![Year/Month Slicer](assets/year, month.png)
+    ![Year/Month Slicer](assets/year,%20month.png)
 
 **Design**
 - Dark theme for high contrast.
@@ -190,16 +190,34 @@ The Online Retail Purchase Patterns Dashboard showcases a powerful, easy-to-use 
 
 All chart images used are located in the `assets/` folder:
 
-assets/
-├── average order value.png
-├── avg quantity per order.png
-├── year, month.png
-├── sum of totalprice by description.png
-├── sum of totalprice by month.png
-├── sum of totalprice by customer id.png
-├── count of invoice.png
-├── sum of totalprice.png
-├── count of customer id.png
-├── sum of totalprice by country.png
+### Average Order Value
+![Average Order Value](assets/average%20order%20value.png)
+
+### Average Quantity per Order
+![Avg Quantity per Order](assets/avg%20quantity%20per%20order.png)
+
+### Year and Month Slicer
+![Year/Month Slicer](assets/year,%20month.png)
+
+### Top Products by Total Price
+![Top Products](assets/sum%20of%20totalprice%20by%20description.png)
+
+### Monthly Sales
+![Monthly Sales](assets/sum%20of%20totalprice%20by%20month.png)
+
+### Customer Sales
+![Customer Sales](assets/sum%20of%20totalprice%20by%20customer%20id.png)
+
+### Invoice Count
+![Invoice Count](assets/count%20of%20invoice.png)
+
+### Total Price
+![Total Price](assets/sum%20of%20totalprice.png)
+
+### Customer Count
+![Customer Count](assets/count%20of%20customer%20id.png)
+
+### Geographic Sales by Country
+![Country Map](assets/sum%20of%20totalprice%20by%20country.png)
 
 ---
