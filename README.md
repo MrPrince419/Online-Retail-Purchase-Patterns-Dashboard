@@ -61,6 +61,8 @@ The **Online Retail Purchase Patterns Dashboard** provides a detailed, interacti
 
 **Access**  
 - File included in this repository: `online retail purchase patterns dashboard.pbix`
+- **Raw Dataset**: `datasets/online_retail_raw.xlsx`  
+- **Cleaned Dataset**: `datasets/online_retail_cleaned.xlsx`
 
 ---
 
